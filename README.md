@@ -2,6 +2,8 @@
 
 This repository contains UI/UX design files and assets for the Attendia mobile app, which complements our HR Management Platform. The designs encompass intuitive interfaces for attendance tracking, task management, and employee communication.
 
+## Figma link
+- **Figma link**: [View Figma link](https://www.figma.com/community/file/1389666794151221120/hr-management-mobile-app)
 ## Design Files
 
 - **UI Designs**: Visual representations of screens and components.
